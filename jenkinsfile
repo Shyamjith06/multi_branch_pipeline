@@ -3,7 +3,7 @@ agent any
 stages{
 stage('multi branch'){
 steps{
-echo "build from main"
+echo "build from branch shyam"
 }
 }
 }
